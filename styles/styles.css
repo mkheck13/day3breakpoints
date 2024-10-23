@@ -1,0 +1,32 @@
+h1{
+    color: rebeccapurple;
+}
+
+.bg-blue{
+    background-color: blue;
+    color: white;
+}
+.bg-green{
+    background-color: green;
+    color: white;
+}
+.bg-purple{
+    background-color: purple;
+    color: white;
+}
+.tall{
+    height: 80px;
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 600px){
+    h1{
+        color: red;
+    }
+}
